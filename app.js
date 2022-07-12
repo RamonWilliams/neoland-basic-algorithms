@@ -96,4 +96,15 @@ rickAndMortyCharacters.push("Summer");
  console.log(rickAndMortyCharacters);
  //Iteracion 1.4
 
+ //TODAVIA NO
+//1.5 Elimina el último elemento del array y muestra el primero y el último por consola.
+const rickCharacters = ["Rick", "Beth", "Jerry", "Morty", "Summer", "Lapiz Lopez"];
+rickCharacters.pop();
+console.log(rickCharacters[0])
+console.log(rickCharacters[4])
+//Iteracion 1.5
+
+
+
+
 
