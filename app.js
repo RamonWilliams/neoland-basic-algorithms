@@ -35,20 +35,26 @@ if ((number2/number1)==2) {
 /*-------------------------------------------------------------------------- */
 // Iteracion 6
 
+//1.1 Crea un bucle for que vaya desde 0 a 9 y muestralo por consola
 let y=9;
 for(i=0; i<=y ;i++){
  console.log(i)
 }
-//Iteracion 6.1
 
+//Iteracion 6.1
+/*1.2 Crea un bucle for que vaya desde 0 a 9 y muestralo por consola solo 
+cuando el resto del numero dividido entre 2 sea 0.*/
 for(i=0; i<10; i++){
     if(i%2===0){
         console.log(i)
     }
 }
-
 //Iteracion 6.2
 
+/*1.3 Crea un bucle para conseguir dormir contando ovejas. 
+Este bucle empieza en 0 y termina en 10. 
+Muestra por consola un mensaje diciendo 'Intentando dormir' en cada vuelta del bucle 
+y cambia el mensaje en la última vuelta a 'Dormido!'.*/
 
 for(r=0;r<10;r++){
     if(r<9){
@@ -59,3 +65,26 @@ for(r=0;r<10;r++){
        console.log("Dormido")           
     }
 }
+// Iteracion 6.3
+
+
+/*---------------------------------------------------------------------------------------------------------------------*/
+
+//Iteracion #4 Arrays 
+
+//1.1 Consigue el valor "HULK" del array de avengers y muestralo por consola.
+const avengers = ["HULK", "SPIDERMAN", "BLACK PANTHER"];
+console.log(avengers[0])
+//Iteracion 4.1
+
+//1.2 Cambia el primer elemento de avengers a "IRONMAN"
+const pepe = ["HULK", "SPIDERMAN", "BLACK PANTHER"];
+pepe[1]="IRONMAN";
+console.log(pepe[1]);
+//Iteraccion 1.2
+
+//1.3 console numero de elementos en el array usando la propiedad correcta de Array.
+const avenger = ["HULK", "SPIDERMAN", "BLACK PANTHER"];
+console.log(avenger.length)
+//Iteracion 1.3
+

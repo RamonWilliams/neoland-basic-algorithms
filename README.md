@@ -1,3 +1,6 @@
+
+Iteracion 5
+
 const number1 = 10;
 const number2 = 20;
 const number3 = 2;
@@ -42,3 +45,27 @@ cuando el resto del numero dividido entre 2 sea 0.
 Este bucle empieza en 0 y termina en 10. 
 Muestra por consola un mensaje diciendo 'Intentando dormir' en cada vuelta del bucle 
 y cambia el mensaje en la última vuelta a 'Dormido!'.
+
+-------------------------------------------------------------------------
+
+Iteracion 4 
+1.1 Consigue el valor "HULK" del array de avengers y muestralo por consola.
+const avengers = ["HULK", "SPIDERMAN", "BLACK PANTHER"];
+
+1.2 Cambia el primer elemento de avengers a "IRONMAN"
+const avengers = ["HULK", "SPIDERMAN", "BLACK PANTHER"];
+
+1.3 console numero de elementos en el array usando la propiedad correcta de Array.
+const avengers = ["HULK", "SPIDERMAN", "BLACK PANTHER"];
+
+1.4 Añade 2 elementos al array: "Morty" y "Summer". 
+Muestra en consola el último personaje del array
+const rickAndMortyCharacters = ["Rick", "Beth", "Jerry"];
+
+//TODAVIA NO
+1.5 Elimina el último elemento del array y muestra el primero y el último por consola.
+const rickAndMortyCharacters = ["Rick", "Beth", "Jerry", "Morty", "Summer", "Lapiz Lopez"];
+
+// TODAVIA NO
+1.6 Elimina el segundo elemento del array y muestra el array por consola.
+const rickAndMortyCharacters = ["Rick", "Beth", "Jerry", "Morty", "Summer", "Lapiz Lopez"];
