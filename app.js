@@ -104,6 +104,18 @@ console.log(rickCharacters[0])
 console.log(rickCharacters[4])
 //Iteracion 1.5
 
+// TODAVIA NO
+//1.6 Elimina el segundo elemento del array y muestra el array por consola.
+const andMortyCharacters = ["Rick", "Beth", "Jerry", "Morty", "Summer", "Lapiz Lopez"];
+delete andMortyCharacters[2]
+console.log(andMortyCharacters);
+//Iteracio 1.6
+
+
+
+
+
+
 
 
 
