@@ -123,7 +123,9 @@ division = 10/2;
 console.log(division);
 //Iteracion ejercicio 3- 1.2
 
-
+//1.3 Muestra mediante un console el resto de dividir 15 por 9.
+resto=15%9;
+console.log(resto);
 
 
 
