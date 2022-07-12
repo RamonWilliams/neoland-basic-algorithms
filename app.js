@@ -116,6 +116,14 @@ console.log(andMortyCharacters);
 
 multiplicacion = 10*5;
 console.log(multiplicacion);
+//Iteracion ejercicio 3 - 1.1
+
+//1.2 Divide 10 por 2 y muestra el resultado en un console.
+division = 10/2;
+console.log(division);
+//Iteracion ejercicio 3- 1.2
+
+
 
 
 
