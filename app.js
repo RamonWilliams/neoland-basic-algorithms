@@ -126,6 +126,16 @@ console.log(division);
 //1.3 Muestra mediante un console el resto de dividir 15 por 9.
 resto=15%9;
 console.log(resto);
+//Iteracion 1.3
+
+//1.4 Usa el correcto operador de asignación que resultará en o = 15, 
+//teniendo dos variables p = 10 y j = 5.
+let p = 10; j = 5;
+let o = p + j;
+//Iteracion 1.4
+
+
+
 
 
 
