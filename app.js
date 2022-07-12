@@ -111,7 +111,11 @@ delete andMortyCharacters[2]
 console.log(andMortyCharacters);
 //Iteracio 1.6
 
+//Iteración #3: Operadores
+//1.1 Multiplica 10 por 5 y muestra el resultado mediante console.
 
+multiplicacion = 10*5;
+console.log(multiplicacion);
 
 
 
