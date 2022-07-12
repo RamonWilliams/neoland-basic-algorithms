@@ -17,4 +17,13 @@ if (number2/number1==2) {
   }
   //iteracion 5.3
 
+  if (number3*5==number1) {
+    console.log("number3 por 5 es igual a number1");
+  }
+  //Iteracion 5.4
+
+  if ((number3*5==number1) && (number1*2==number2)) {
+    console.log("number3 por 5 es igual a number1 Y number1 por 2 es igual a number2");
+  }
+  //Iteracion 5.5
   
