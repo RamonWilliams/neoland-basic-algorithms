@@ -37,16 +37,16 @@ if ((number2/number1)==2) {
 
 //1.1 Crea un bucle for que vaya desde 0 a 9 y muestralo por consola
 let y=9;
-for(i=0; i<=y ;i++){
- console.log(i)
+for(t=0; t<=y ;t++){
+ console.log(t)
 }
 
 //Iteracion 6.1
 /*1.2 Crea un bucle for que vaya desde 0 a 9 y muestralo por consola solo 
 cuando el resto del numero dividido entre 2 sea 0.*/
-for(i=0; i<10; i++){
-    if(i%2===0){
-        console.log(i)
+for(w=0; w<10; w++){
+    if(w%2===0){
+        console.log(w)
     }
 }
 //Iteracion 6.2
@@ -130,11 +130,16 @@ console.log(resto);
 
 //1.4 Usa el correcto operador de asignación que resultará en o = 15, 
 //teniendo dos variables p = 10 y j = 5.
-let p = 10; j = 5;
+let p = 10, j = 5;
 let o = p + j;
 //Iteracion 1.4
 
-
+//1.5 Usa el correcto operador de asignación que resultará en i = 50,
+//teniendo dos variables c = 10 y m = 5.
+let i = 50;
+let c = 10 ,m = 5;
+i=c*m;
+//Iteracion 1.5
 
 
 
