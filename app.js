@@ -48,3 +48,14 @@ for(i=0; i<10; i++){
 }
 
 //Iteracion 6.2
+
+
+for(r=0;r<10;r++){
+    if(r<9){
+        console.log("Estoy durmiendo ")
+
+    }
+    else {
+       console.log("Dormido")           
+    }
+}
