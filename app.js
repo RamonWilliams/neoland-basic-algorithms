@@ -88,3 +88,12 @@ const avenger = ["HULK", "SPIDERMAN", "BLACK PANTHER"];
 console.log(avenger.length)
 //Iteracion 1.3
 
+//1.4 Añade 2 elementos al array: "Morty" y "Summer". 
+//Muestra en consola el último personaje del array
+const rickAndMortyCharacters = ["Rick", "Beth", "Jerry"];
+rickAndMortyCharacters.push("Morty");
+rickAndMortyCharacters.push("Summer");
+ console.log(rickAndMortyCharacters);
+ //Iteracion 1.4
+
+
