@@ -31,3 +31,12 @@ if ((number2/number1)==2) {
     console.log("number2 entre 2 es igual a number1 O number1 entre 5 es igual a number3");
   }
 //ITERACION 5.6
+
+/*-------------------------------------------------------------------------- */
+// Iteracion 6
+
+let y=9;
+for(i=0; i<=y ;i++){
+ console.log(i)
+}
+//Iteracion 6.1
